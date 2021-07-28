@@ -19,7 +19,7 @@
   along with SHIRO.  If not, see <http://www.gnu.org/licenses/>.
 ]]
 
-local mypath = arg[0]:match("(.-)[^\\/]+$")
+local mypath = "/content/SHIRO/"
 
 package.path = package.path .. ";" ..
   mypath .. "?.lua;" .. mypath .. "external/?.lua"
