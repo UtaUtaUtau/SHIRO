@@ -5,6 +5,8 @@ Phoneme-to-Speech Alignment Toolkit based on [liblrhsmm](https://github.com/Slee
 
 Proudly crafted in C and Lua. Licensed under GPLv3.
 
+This fork is meant to be for running in Colab. Probably.
+
 Introduction
 ---
 
